@@ -2,7 +2,7 @@
 Sorting Visualizer is an interactive web application that visualizes various sorting algorithms in action. Users can observe how different algorithms sort an array of elements step-by-step, making it easier to understand their functionality and performance.
 
 ## Features
-###1. Interactive Visualization
+### 1. Interactive Visualization
 Visualizes multiple sorting algorithms in real-time.
 
 Users can watch how the array is sorted step-by-step, helping them understand the inner workings of each algorithm.
